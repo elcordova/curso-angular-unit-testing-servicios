@@ -92,6 +92,7 @@
             "main": "src/test.ts",
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.spec.json",
+            "sourceMap": false,
             "karmaConfig": "karma.conf.js",
             "inlineStyleLanguage": "scss",
             "assets": [
