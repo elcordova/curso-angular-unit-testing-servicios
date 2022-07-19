@@ -1,5 +1,5 @@
 import { Calculator } from "./calculator";
-fdescribe("Test for Calculator", () => {
+describe("Test for Calculator", () => {
   it("should multiply 2 and 3", () => {
     const calculator = new Calculator();
     const result = calculator.multiply(2, 3);
